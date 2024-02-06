@@ -14,3 +14,13 @@ You need to escape from the IRS that wants to steal your money. Make the wrong d
 8. Join your partner (beware of betrayals)
 9. Escape the country to go to the Bahamas
 10. Enjoy your freedom as a rich white privileged man
+
+### Details
+
+#### Step 1
+
+In the first step, you are woken up by the FBI slamming your door to arrest you. You can either choose to open the door, escape through the window or go to the garage. If you surrender, you lose. If you go through the window, you should decide which clothes to wear and how to escape the police (going through the forest in your backyard). If you go to the garage, you take your car and have to dodge policemen or you will get shot immediately.
+
+#### Step 2
+
+Now is the time to change your identity and call a friend to help you later. If you don't change your identity, you will be arrested in the next step. If you don't call one of your two friends, you will be stuck in step 8. One of your friends, friend 1, will help you while the other one, friend 2, will betray you. Take the direction of the airport. If you go anywhere else, you'll be arrested. You can have cosmetic surgery, but it is just a bonus.
