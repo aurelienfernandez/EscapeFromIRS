@@ -1,0 +1,36 @@
+// This file needs "https://marketplace.visualstudio.com/items?itemName=tintinweb.graphviz-interactive-preview" to view the multiple paths of the story.
+
+digraph main{
+    //Constants
+    start[label="The FBI wakes you up"]
+    fail[label="The FBI puts you in jail"]
+    fail2[label="The FBI puts you in jail"]
+    fail3[label="The FBI puts you in jail"]
+    HE[label="Happy ending"]
+
+    //Main branch
+    start->1[label="You jump through the window"]
+    1->5[label="You change your identity"]
+    5->6[label="You take a plane"]
+    6->7[label="You hijack the plane "]
+    7->8[label="You negotiate with the FBI for more money"]
+    8->9[label="You get your money"]
+    9->10[label="You join your efforts with a partner"]
+    10->11[label="You escape the country and go to the Bahamas"]
+    11->HE[label="You are living, free and rich as a white priviliged man should"]
+
+    start->2[label="You open the door"]
+    start->3[label="You go back to sleep"]
+    
+
+
+    //Fails
+    2,3->fail
+    1->fail[label="You failed to change your identity"]
+    5->fail2[label="You couldn't take the plane"]
+    6->fail2[label="You failed to hijack the plane"]
+    7->fail2[label="You failed to negotiate with the FBI"]
+    8->fail3[label="The FBI tricked you"]
+    9->fail3[label="Your partner betrays you"]
+    10->fail3[label="You failed to escape the"]
+}
