@@ -1,7 +1,6 @@
 // This file needs "https://marketplace.visualstudio.com/items?itemName=tintinweb.graphviz-interactive-preview" to view the multiple paths of the story.
 
 digraph main{
-        rankdir="LR";
 
     //Constants
     start[label="The FBI wakes you up"]
