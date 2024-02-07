@@ -41,3 +41,11 @@ Now that you have taken control of the plane, keep the same direction and contac
 #### Step 8
 
 Once you landed, join your partner on the nearest road, if you choose the right friends, basically smooth sailing until the Mexican border. Give him some money to thank him, and tell him to never try to contact you again, or you will be found by the FBI after. Otherwise, kill him at the first stop he makes, as he will betray you otherwise and deliver you to the police, and take his car.
+
+#### Step 9
+
+Now that you are in Mexico, bribe anybody you run through, or you will be either killed, arrested, get your money stolen, or reported to the FBI. Go east to reach the Atlantic Ocean, and take a boat to reach first La Havane. Spend a week there, as otherwise a storm will hit you mid-sea and destroy your boat. Stay low, as you can still be arrested here. After a week, leave ASAP to go to Nassau, as one more day will end up in you being arrested by the FBI, same as any other destination
+
+#### Step 10
+
+GGs, you reached the Bahamas and Nassau. Make sure to get rid of your phone, and enjoy your life there.
