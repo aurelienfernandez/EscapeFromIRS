@@ -20,7 +20,24 @@ You need to escape from the IRS that wants to steal your money. Make the wrong d
 #### Step 1
 
 In the first step, you are woken up by the FBI slamming your door to arrest you. You can either choose to open the door, escape through the window or go to the garage. If you surrender, you lose. If you go through the window, you should decide which clothes to wear and how to escape the police (going through the forest in your backyard). If you go to the garage, you take your car and have to dodge policemen or you will get shot immediately.
+Don't forget your fellow gun as a fellow American.
 
 #### Step 2
 
 Now is the time to change your identity and call a friend to help you later. If you don't change your identity, you will be arrested in the next step. If you don't call one of your two friends, you will be stuck in step 8. One of your friends, friend 1, will help you while the other one, friend 2, will betray you. Take the direction of the airport. If you go anywhere else, you'll be arrested. You can have cosmetic surgery, but it is just a bonus.
+
+#### Step 3
+
+You arrived at the airport. You have to choose the plane going from Dallas (where you are) to Albuquerque. All the planes leaving the country are under surveillance, so taking another one will result in your arrest. Buy things only in cash if you want to, as card payment will make you vulnerable to the FBI. The flight for Alburqueque has no surveillance, so you will be able to go through with your gun, essential to hijack the plane. If you take another domestic plane, you will be arrested if you have your gun. If not, you will not be able to hijack the plane. Choose a place in the aisle.
+
+#### Step 4
+
+To hijack the plane, don't do anything until your neighbor goes to the toilet if you are not in the aisle, as your neighbor will stop you. Otherwise, act as soon as the belt sign turns off. Act as discretely as possible to reach the cockpit and take control. Tell the pilots to not make any announcements yet.
+
+#### Steps 5, 6 and 7
+
+Now that you have taken control of the plane, keep the same direction and contact the army through the radio. Negotiate no more than your money in cash plus 500,000$, as anything above will be refused and the army will kill you. Tell them to give them to your partner now. Also ask for amnesty for your partner, and at least three parachutes to create baits. Once you are above the desert, jump from the plane to go south.
+
+#### Step 8
+
+Once you landed, join your partner on the nearest road, if you choose the right friends, basically smooth sailing until the Mexican border. Give him some money to thank him, and tell him to never try to contact you again, or you will be found by the FBI after. Otherwise, kill him at the first stop he makes, as he will betray you otherwise and deliver you to the police, and take his car.
