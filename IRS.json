@@ -1,0 +1,90 @@
+{
+    "chapters": [
+      {
+        "id": 0,
+        "title": "start",
+        "content": "You are John McCain, trader in crypto-currency and scammer in his spare time. This saturday morning, you decided to stay in bed late, to rest from your very busy week. Suddenly, a very heavy noise wakes you up at 6:00 am. You look through the window and see a dozen of FBI agents, destroying your front door to break in. They are here to take the money that you have been saving by not giving it to the state. Fealthy them! You won't let them take your money, and even less yourself. You can either go open the door and play innoncent, hide in the closet, escape through the window, or go to your garage.",
+        "choices": [
+          { "text": "Open the door", "destination": "32" },
+          { "text": "Hide in the closet", "destination": "60" },
+          { "text": "Escape through the window", "destination": "17" },
+          { "text": "Go to your garage", "destination": "86" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "chapter 2",
+        "content": "You take the owner of the house in hostage and ask the agents to let you go. As taking hostage is not really appreciated, they don't hesitate to shoot you dead.",
+        "choices": [
+          { "text": "Start Over", "destination": "0" }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "chapter 12",
+        "content": "You take perpetuity",
+        "choices": [
+          { "text": "Start Over", "destination": "0" }
+        ]
+      },
+      {
+        "id": 17,
+        "title": "chapter 17",
+        "content": "You put on your nicest suit and make sure that you take your gun and your bible (You are American after all). You check that there are no agents waiting down the window and jump in a bush. You can either ran through the forest in your backyard or try to squeeze through the horde of agents in your front yard.",
+        "choices": [
+          { "text": "Go through the forest", "destination": "27" },
+          { "text": "Go through the agents", "destination": "41" }
+        ]
+      },
+      {
+        "id": 20,
+        "title": "chapter 20",
+        "content": "As you know the area like the back of your hand, you manage to lose the cops. You can hear the sirens, meaning that they are still chasing you. You decided that the best way to stay on the low is to reach the forest and keep walking until you reach the next city.",
+        "choices": [
+          { "text": "Go to chapter", "destination": "27" }
+        ]
+      },
+      {
+        "id": 27,
+        "title": "chapter 27",
+        "content": "Content of chapter 27",
+        "choices": [
+          { "text": "Start Over", "destination": "0" }
+        ]
+      },
+      {
+        "id": 32,
+        "title": "chapter 32",
+        "content": "You open the door and you don't even have time to say anything that you are already handcuffed on the ground. You try to defend yourself, but there are too many agents and they are too strong. You are taken to the police station and brought to court. Your trial starts.",
+        "choices": [
+          { "text": "Go to chapter", "destination": "12" }
+        ]
+      },
+      {
+        "id": 41,
+        "title": "chapter 41",
+        "content": "You try to pass through all the agents, but it's not long before they see you. As a result, they chase you down the street. You pass down a house and see that it's open with someone inside. You can either go inside to take him in hostage or keep running.",
+        "choices": [
+          { "text": "Go inside", "destination": "2" },
+          { "text": "Keep running", "destination": "20" }
+        ]
+      },
+      {
+        "id": 60,
+        "title": "chapter 60",
+        "content": "You hide in the closet, hoping that you will have the time to call a friend. As soon as you enter it, you hear your door break in pieces and the agents entering your house. They reach your room in a few seconds and find you directly. You are taken to the police station and brought to court. Your trial starts.",
+        "choices": [
+          { "text": "Go to chapter", "destination": "12" }
+        ]
+      },
+      {
+        "id": 86,
+        "title": "chapter 86",
+        "content": "Chapter 86 content...",
+        "choices": [
+          { "text": "Start Over", "destination": "0" }
+        ]
+      }
+    ]
+  }
+  
