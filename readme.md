@@ -11,7 +11,7 @@ You need to escape from the IRS that wants to steal your money. Make the wrong d
 5. Negotiation for more money
 6. Get the money
 7. Jump from the plane
-8. Join your partner (beware of betrayals)
+8. Join your partner
 9. Escape the country to go to the Bahamas
 10. Enjoy your freedom as a rich white privileged man
 
@@ -24,7 +24,7 @@ Don't forget your fellow gun as a fellow American.
 
 #### Step 2
 
-Now is the time to change your identity and call a friend to help you later. If you don't change your identity, you will be arrested in the next step. If you don't call one of your two friends, you will be stuck in step 8. One of your friends, friend 1, will help you while the other one, friend 2, will betray you. Take the direction of the airport. If you go anywhere else, you'll be arrested. You can have cosmetic surgery, but it is just a bonus.
+Now is the time to change your identity and call a friend to help you later. If you don't change your identity, you will be arrested in the next step. Take the direction of the airport. If you go anywhere else, you'll be arrested. You can have cosmetic surgery, but it is just a bonus.
 
 #### Step 3
 
@@ -40,7 +40,7 @@ Now that you have taken control of the plane, keep the same direction and contac
 
 #### Step 8
 
-Once you landed, join your partner on the nearest road, if you choose the right friends, basically smooth sailing until the Mexican border. Give him some money to thank him, and tell him to never try to contact you again, or you will be found by the FBI after. Otherwise, kill him at the first stop he makes, as he will betray you otherwise and deliver you to the police, and take his car.
+Once you landed, join your partner on the nearest road, kill him at the first stop he makes, as he will betray you by delivering you to the police, and take his car.
 
 #### Step 9
 
