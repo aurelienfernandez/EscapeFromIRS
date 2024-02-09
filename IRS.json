@@ -61,6 +61,21 @@
       ]
     },
     {
+      "id": 5,
+      "title": "chapter 5",
+      "content": "The receptionist ask you for where you would like to sit. You can either take a window seat or an aisle seat.",
+      "choice": [
+        {
+          "text": "If you want to take a window seat, go to chapter",
+          "destination": "70"
+        },
+        {
+          "text": "If you want to take an aisle seat, go to chapter",
+          "destination": "9"
+        }
+      ]
+    },
+    {
       "id": 7,
       "title": "chapter 7",
       "content": "It happens you also know someone doing face surgeries in Denver in a very short amount of time. You go to him and ask him to do his things. After a bit more than an hour, you are hardly recognizable. You can either take a plane or a train.",
@@ -72,6 +87,47 @@
         {
           "text": "If you want to take a train, go to chapter",
           "destination": "96"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "chapter 8",
+      "content": "Your neighbour is a retired navy seal, and instantly recognize that you are trying to take control of the plane. He tackled you, break your arm and contact an hostess. When the plane land, you are directly send to prison for perpetuity.",
+      "choices": [
+        {
+          "text": "Start Over",
+          "destination": "0"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "chapter 9",
+      "content": "You take an aisle seat, and wait for the take off. The plane takes off and nothing can stop you from taking control of the plane. The seat belt sign is off, but your neighbour is in the way. You can either go over him, or wait for him to move.",
+      "choices": [
+        {
+          "text": "If you want to go over him, go to chapter",
+          "destination": "8"
+        },
+        {
+          "text": "If you want to wait for him to move, go to chapter",
+          "destination": "72"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "chapter 11",
+      "content": "You reach the cockpit and take control of the plane. You can either go to New York or to Miami.",
+      "choices": [
+        {
+          "text": "If you want to go to New York, go to chapter",
+          "destination": "99"
+        },
+        {
+          "text": "If you want to go to Miami, go to chapter",
+          "destination": "60"
         }
       ]
     },
@@ -228,6 +284,21 @@
         {
           "text": "If you want to go to Albuquerque, go to chapter",
           "destination": "5"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "title": "chapter 70",
+      "content": "You enter the plane, take your seat and wait for the take off. The plane takes off and nothing can stop you from taking control of the plane. The seat belt sign is off, but your neighbour is in the way. You can either go over him, or wait for him to move .",
+      "choices": [
+        {
+          "text": "If you want to go over him, go to chapter",
+          "destination": "8"
+        },
+        {
+          "text": "If you want to wait for him to move, go to chapter",
+          "destination": "72"
         }
       ]
     },
