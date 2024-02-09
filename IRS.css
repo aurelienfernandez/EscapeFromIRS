@@ -1,10 +1,12 @@
+html{
+    overflow: hidden;
+}
 body {
     text-align: center;
     background-color: bisque;
 }
 
 #Chapters {
-    display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
@@ -13,4 +15,68 @@ body {
     padding: 15px;
     box-shadow: inset 1.5px 1.5px 5px 1.5px;
     background-color: white;
+}
+
+
+.ad-container {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 9999;
+    margin-top: -2.5vh;
+    margin-left: -0.5vw;
+
+    .ad-popup {
+        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%) translatey(-50%);
+        padding: 50px;
+        max-width: 400px;
+
+        .ad-background {
+            img {
+                max-width: 100%;
+                max-height: 100%;
+            }
+        }
+
+        .ad-button {
+            padding: 10px 20px 10px 20px;
+            background: #FFF;
+
+            button {
+                font-weight: bold;
+            }
+        }
+
+        .ad-background {
+            height: 100%;
+            width: 100%;
+            background-repeat: no-repeat;
+            background-size: contain;
+        }
+
+        .ad-button-close {
+            transition: all 0.5s ease;
+            cursor: pointer;
+            text-align: right;
+            padding-bottom: 10px;
+
+            .icon {
+                display: inline-block;
+                vertical-align: middle;
+                font-size: 16px;
+                color: #FFF;
+            }
+
+            .button-text {
+                display: inline-block;
+                vertical-align: middle;
+                color: #FFF;
+                font-weight: bold;
+            }
+        }
+    }
 }

@@ -8,7 +8,7 @@ function findChapterById(chapters, id) {
 
 function Change(number) {
     // Fetch the JSON file
-    fetch('IRS.json')
+    fetch('./IRS.json',{method: 'GET'})
         .then(response => response.json())
         .then(data => {
             // Accessing the chapter with id "2"
@@ -31,4 +31,8 @@ function Change(number) {
         })
         .catch(error => console.error('Error fetching JSON:', error));
 
+}
+
+function CloseAD(){
+    document.getElementById("ad").style.display="none";
 }
