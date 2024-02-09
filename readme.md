@@ -3,15 +3,6 @@
 You need to escape from the IRS that wants to steal your money. Make the wrong decisions, and will end up in jail. But if you are clever enough, you will successfully prevent your money taken away from you and used by the State to fund social initiatives.
 
 
-## How to run the game
-
-To run the game a few steps need to be done:
-
-- Open Visual Studio Code
-- Install the extension [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- In the bottom right of Visual Studio Code a new icon appeared, named "Go Live!", click on it
-- Enjoy!
-
 ## Steps
 
 1. Escape your house, which is under attack by the FBI
