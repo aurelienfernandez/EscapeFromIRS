@@ -67,11 +67,11 @@
       "choices": [
         {
           "text": "If you want to take a plane, go to chapter",
-          "destination": "44"
+          "destination": "33"
         },
         {
           "text": "If you want to take a train, go to chapter",
-          "destination": "4"
+          "destination": "96"
         }
       ]
     },
@@ -156,7 +156,7 @@
     {
       "id": 33,
       "title": "chapter 33",
-      "content": "content 33",
+      "content": "You arrive at the airport",
       "choices": [
         {
           "text": "Start Over",
@@ -182,7 +182,7 @@
     {
       "id": 44,
       "title": "chapter 44",
-      "content": "You arrive at the airport, but you forgot that you need to show your ID to take a plane. You try to act as naturally as possible, but you can see that the receptionist recognized you. It's too late now, the cops are already here. They arrest you and take you to the police station. Your trial startsS.",
+      "content": "You arrive at the airport, but you face is everywhere on the walls. You are being arrested and your trial starts.",
       "choices": [
         {
           "text": "Go to chapter",
