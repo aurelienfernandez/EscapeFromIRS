@@ -37,14 +37,14 @@
     {
       "id": 3,
       "title": "chapter 3",
-      "content": "You managed to take a big lead, but you suspect that they have your car's plate number. To make sure that they can't track you, you decide that you will abandon your car when arriving in the next city. You have the time to call a friend and explain him your plan. Once you arrive at the next city, Denver, you destroy your car, faking an accident. You can either rush to a the airport or train station, or you use the time you have at your advantage to cover you back, and make sure everything will go smoothly afterwards. If you want to rush to the airport or train station, go to chapter 15. If you want to cover your back, go to chapter 81.",
+      "content": "You managed to take a big lead, but you suspect that they have your car's plate number. To make sure that they can't track you, you decide that you will abandon your car when arriving in the next city. You have the time to call a friend and explain him your plan. Once you arrive at the next city, Denver, you destroy your car, faking an accident. You can either rush to a the airport or train station, or you use the time you have at your advantage to cover you back, and make sure everything will go smoothly afterwards.",
       "choices": [
         {
-          "text": "Rush to the airport or train station",
+          "text": "If you want to rush to the airport or train station, go to chapter",
           "destination": "15"
         },
         {
-          "text": "Cover your back",
+          "text": "If you want to cover your back, go to chapter",
           "destination": "81"
         }
       ]
@@ -52,10 +52,10 @@
     {
       "id": 4,
       "title": "chapter 4",
-      "content": "You arrive at the train station, and you see your face everywhere. You give your fake ID to the receptionist, but it's not enough to fool her. The cops were planning an ambush and they arrest you. Your trial starts, go to chapter 12.",
+      "content": "You arrive at the train station, and you see your face everywhere. You give your fake ID to the receptionist, but it's not enough to fool her. The cops were planning an ambush and they arrest you. Your trial starts.",
       "choices": [
         {
-          "text": "Chapter",
+          "text": "Go to chapter",
           "destination": "12"
         }
       ]
@@ -63,14 +63,14 @@
     {
       "id": 7,
       "title": "chapter 7",
-      "content": "It happens you also know someone doing face surgeries in Denver in a very short amount of time. You go to him and ask him to do his things. After a bit more than an hour, you are hardly recognizable. You can either take a plane or a train. If you want to take a plane, go to chapter 44. If you want to take a train, go to chapter 4.",
+      "content": "It happens you also know someone doing face surgeries in Denver in a very short amount of time. You go to him and ask him to do his things. After a bit more than an hour, you are hardly recognizable. You can either take a plane or a train.",
       "choices": [
         {
-          "text": "Take a plane",
+          "text": "If you want to take a plane, go to chapter",
           "destination": "44"
         },
         {
-          "text": "Take a train",
+          "text": "If you want to take a train, go to chapter",
           "destination": "4"
         }
       ]
@@ -89,14 +89,14 @@
     {
       "id": 15,
       "title": "chapter 15",
-      "content": "Fortunately, the train station and the airport are just next to each other. There don't seem to be any cops around. You can either take a plane or a train. To take a plane, go to chapter 52. To take a train, go to chapter 93.",
+      "content": "Fortunately, the train station and the airport are just next to each other. There don't seem to be any cops around. You can either take a plane or a train.",
       "choices": [
         {
-          "text": "Take a plane",
+          "text": "To take a plane, go to chapter",
           "destination": "52"
         },
         {
-          "text": "Take a train",
+          "text": "To take a train, go to chapter",
           "destination": "93"
         }
       ]
@@ -104,14 +104,14 @@
     {
       "id": 17,
       "title": "chapter 17",
-      "content": "You put on your nicest suit and make sure that you take your gun and your bible (You are American after all). You check that there are no agents waiting down the window and jump in a bush. You can either ran through the forest in your backyard or try to squeeze through the hord of agents in your frontyard. If you want to go through the forest, go to chapter 27. If you want to go through the agents, go to chapter 41.",
+      "content": "You put on your nicest suit and make sure that you take your gun and your bible (You are American after all). You check that there are no agents waiting down the window and jump in a bush. You can either ran through the forest in your backyard or try to squeeze through the hord of agents in your frontyard.",
       "choices": [
         {
-          "text": "Go through the forest",
+          "text": "If you want to go through the forest, go to chapter",
           "destination": "27"
         },
         {
-          "text": "Go through the agents",
+          "text": "If you want to go through the agents, go to chapter",
           "destination": "41"
         }
       ]
@@ -119,7 +119,7 @@
     {
       "id": 20,
       "title": "chapter 20",
-      "content": "As you know the area like the back of your hand, you manage to lose the cops. You can hear the sirens, meaning that they are still chasing you. You decided that the best way to stay on the low is to reach the forest and keep walking until you reach the next city. Go to chapter 27.",
+      "content": "As you know the area like the back of your hand, you manage to lose the cops. You can hear the sirens, meaning that they are still chasing you. You decided that the best way to stay on the low is to reach the forest and keep walking until you reach the next city.",
       "choices": [
         {
           "text": "Go to chapter",
@@ -130,18 +130,22 @@
     {
       "id": 27,
       "title": "chapter 27",
-      "content": "While you are walking in the forest, you have the time to call a friend of yours and explain him your plan. You reach Denver after some walking. You can either rush to a the airport or train station, or you use the time you have at your advantage to cover you back, and make sure everything will go smoothly afterwards. If you want to rush to the airport or train station, go to chapter 15. If you want to cover your back, go to chapter 81.",
+      "content": "While you are walking in the forest, you have the time to call a friend of yours and explain him your plan. You reach Denver after some walking. You can either rush to a the airport or train station, or you use the time you have at your advantage to cover you back, and make sure everything will go smoothly afterwards.",
       "choices": [
         {
-          "text": "Start Over",
-          "destination": "0"
+          "text": "If you want to rush to the airport or train station, go to chapter",
+          "destination": "15"
+        },
+        {
+          "text": "If you want to cover your back, go to chapter",
+          "destination": "81"
         }
       ]
     },
     {
       "id": 32,
       "title": "chapter 32",
-      "content": "You open the door and you don't even have time to say anything that you are already handcuffed on the ground. You try to defend yourself, but there are too many agents and they are too strong. You are taken to the police station and brought to court. Your trial starts, go to chapter 12.",
+      "content": "You open the door and you don't even have time to say anything that you are already handcuffed on the ground. You try to defend yourself, but there are too many agents and they are too strong. You are taken to the police station and brought to court. Your trial starts.",
       "choices": [
         {
           "text": "Go to chapter",
@@ -163,14 +167,14 @@
     {
       "id": 41,
       "title": "chapter 41",
-      "content": "You try to pass through all the agents, but it's not long before they see you. As a result, they chase you down the street. You pass down a house and see that it's open with someone inside. You can either go inside to take him in hostage or keep running. If you want to go inside, go to chapter 2. If you want to keep running, go to chapter 20.",
+      "content": "You try to pass through all the agents, but it's not long before they see you. As a result, they chase you down the street. You pass down a house and see that it's open with someone inside. You can either go inside to take him in hostage or keep running.",
       "choices": [
         {
-          "text": "Go inside",
+          "text": "If you want to go inside, go to chapter",
           "destination": "2"
         },
         {
-          "text": "Keep running",
+          "text": "If you want to keep running, go to chapter",
           "destination": "20"
         }
       ]
@@ -178,7 +182,7 @@
     {
       "id": 44,
       "title": "chapter 44",
-      "content": "You arrive at the airport, but you forgot that you need to show your ID to take a plane. You try to act as naturally as possible, but you can see that the receptionist recognized you. It's too late now, the cops are already here. They arrest you and take you to the police station. Your trial starts, go to chapter 12.",
+      "content": "You arrive at the airport, but you forgot that you need to show your ID to take a plane. You try to act as naturally as possible, but you can see that the receptionist recognized you. It's too late now, the cops are already here. They arrest you and take you to the police station. Your trial startsS.",
       "choices": [
         {
           "text": "Go to chapter",
@@ -189,7 +193,7 @@
     {
       "id": 52,
       "title": "chapter 52",
-      "content": "You arrive at the airport, but you forgot that you need to show your ID to take a plane. You try to act as naturally as possible, but you can see that the receptionist recognized you. It's too late now, the cops are already here. They arrest you and take you to the police station. Your trial starts, go to chapter 12.",
+      "content": "You arrive at the airport, but you forgot that you need to show your ID to take a plane. You try to act as naturally as possible, but you can see that the receptionist recognized you. It's too late now, the cops are already here. They arrest you and take you to the police station. Your trial starts",
       "choices": [
         {
           "text": "Go to chapter",
@@ -200,7 +204,7 @@
     {
       "id": 60,
       "title": "chapter 60",
-      "content": "You hide in the closet, hoping that you will have the time to call a friend. As soon as you enter it, you hear your door break in pieces and the agents entering your house. They reach the room in a few seconds and find you directly. You are taken to the police station and brought to court. Your trial starts, go to chapter 12.",
+      "content": "You hide in the closet, hoping that you will have the time to call a friend. As soon as you enter it, you hear your door break in pieces and the agents entering your house. They reach the room in a few seconds and find you directly. You are taken to the police station and brought to court. Your trial starts.",
       "choices": [
         {
           "text": "Go to chapter",
@@ -222,18 +226,18 @@
     {
       "id": 81,
       "title": "chapter 81",
-      "content": "You know someone selling fake IDs in Denver. After negotiating (threatening him with your gun), to make sure he won't tell anyone, you get your fake ID. It took some time, but you are still ahead of the cops. You can either take a train or a plane, or use a bit more time to make sure that you nothing will go wrong. If you want to take a plane, go to chapter 44. If you want to take a train, go to chapter 4. If you want to cover your back more, go to chapter 7.",
+      "content": "You know someone selling fake IDs in Denver. After negotiating (threatening him with your gun), to make sure he won't tell anyone, you get your fake ID. It took some time, but you are still ahead of the cops. You can either take a train or a plane, or use a bit more time to make sure that you nothing will go wrong.",
       "choices": [
         {
-          "text": "Take a plane",
+          "text": "If you want to take a plane, go to chapter",
           "destination": "44"
         },
         {
-          "text": "Take a train",
+          "text": "If you want to take a train, go to chapter",
           "destination": "4"
         },
         {
-          "text": "Cover your back more",
+          "text": "If you want to cover your back more, go to chapter",
           "destination": "7"
         }
       ]
@@ -241,14 +245,14 @@
     {
       "id": 86,
       "title": "chapter 86",
-      "content": "You reach your garage before the police can enter your house. You check that you are a gun and a bible in your car's glovebox (You are American after all). You start up your engine and drive through the door. That surprises the agents and froze them. You can either take the opportunity to run over some of them or dodge them and drive away, taking a big lead. If you want to run over some of them, go to chapter 80. If you want to dodge them and take a lead, go to chapter 3.",
+      "content": "You reach your garage before the police can enter your house. You check that you are a gun and a bible in your car's glovebox (You are American after all). You start up your engine and drive through the door. That surprises the agents and froze them. You can either take the opportunity to run over some of them or dodge them and drive away, taking a big lead.",
       "choices": [
         {
-          "text": "Run over some of them",
+          "text": "If you want to run over some of them, go to chapter",
           "destination": "80"
         },
         {
-          "text": "Dodge them and take a lead",
+          "text": "If you want to dodge them and take a lead, go to chapter",
           "destination": "3"
         }
       ]
@@ -256,7 +260,7 @@
     {
       "id": 93,
       "title": "chapter 93",
-      "content": "You arrive at the train station, but they are asking for your ID. You try to act as naturally as possible, hoping that the warrant has not reached the town yet. As the receptionist check for your ID, you hear some movements behind you. That is cops, and you can hear your name and that you are searched. Before you can realize that the receptionist was attracting their attention You are arrested. Your trial starts, go to chapter 12",
+      "content": "You arrive at the train station, but they are asking for your ID. You try to act as naturally as possible, hoping that the warrant has not reached the town yet. As the receptionist check for your ID, you hear some movements behind you. That is cops, and you can hear your name and that you are searched. Before you can realize that the receptionist was attracting their attention You are arrested. Your trial starts.",
       "choices": [
         {
           "text": "Go to chapter",
@@ -267,7 +271,7 @@
     {
       "id": 96,
       "title": "chapter 96",
-      "content": "You arrive at the train station, and look for which train could be available. As you see the screens, you remember that you are American and your railway system is absolutely horrendous. The next train is leaving in 3 days, with a one day delay. You can't afford to wait that long, so you decide to take a plane instead. Go to chapter 33.",
+      "content": "You arrive at the train station, and look for which train could be available. As you see the screens, you remember that you are American and your railway system is absolutely horrendous. The next train is leaving in 3 days, with a one day delay. You can't afford to wait that long, so you decide to take a plane instead.",
       "choices": [
         {
           "text": "Go to chapter",
