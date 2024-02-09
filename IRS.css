@@ -3,6 +3,12 @@ body {
     background-color: bisque;
 }
 
+p {
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+    color: black;
+}
+
 #Chapters {
     display: block;
     margin-left: auto;
