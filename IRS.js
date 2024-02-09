@@ -304,6 +304,17 @@ var data=(
             ]
           },
           {
+            "id": 72,
+            "title": "chapter 72",
+            "content": "You neighbour finally goes to the toilet, and you take the opportunity to move to the cockpit. You approach the cockpit without any problem, and show the hostess discretly that you have a gun. She opens the door and you show to the pilots your gun. You convince them to let you use the radio to contact the control tower.",
+            "choices": [
+              {
+                "text": "Go to chapter",
+                "destination": "69"
+              }
+            ]
+          },
+          {
             "id": 73,
             "title": "chapter 73",
             "content": "You head to the international flights, and the first flight is going to France. Perfect, a real country with normal people in it. As you go through the customs, you can hear the safety gantry ring, and the you are tackled to the ground. As a real country, France does not allow to travel to it with a gun in your pocket. You are arrested and in the purest french tradition, the cops commits a police blunder. You are sent to the hospital, but it's way too late for you and you die during the trip (Fortunately, because the ambulance would have cost you all your money).",
@@ -421,5 +432,3 @@ function Change(number) {
     // Fetch the JSON file
     
 }
-
-
