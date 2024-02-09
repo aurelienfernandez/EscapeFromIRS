@@ -156,11 +156,15 @@
     {
       "id": 33,
       "title": "chapter 33",
-      "content": "You arrive at the airport",
+      "content": "You arrive at the airport, You are closer than ever to your final objective. You know have to decide what you are going to do next. Will you try to take an international flight to fly away from the country as far as possible, or take a domestic flight to keep it on the low.",
       "choices": [
         {
-          "text": "Start Over",
-          "destination": "0"
+          "text": "If you want to take an international flight, go to chapter",
+          "destination": "73"
+        },
+        {
+          "text": "If you want to take a domestic flight, go to chapter",
+          "destination": "66"
         }
       ]
     },
@@ -209,6 +213,32 @@
         {
           "text": "Go to chapter",
           "destination": "12"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "chapter 66",
+      "content": "You can take two different flights. One is going to Albuquerque, and the other one to Miami.",
+      "choices": [
+        {
+          "text": "If you want to go to New York, go to chapter",
+          "destination": "99"
+        },
+        {
+          "text": "If you want to go to Albuquerque, go to chapter",
+          "destination": "5"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "title": "chapter 73",
+      "content": "You head to the international flights, and the first flight is going to France. Perfect, a real country with normal people in it. As you go through the customs, you can hear the safety gantry ring, and the you are tackled to the ground. As a real country, France does not allow to travel to it with a gun in your pocket. You are arrested and in the purest french tradition, the cops commits a police blunder. You are sent to the hospital, but it's way too late for you and you die during the trip (Fortunately, because the ambulance would have cost you all your money).",
+      "choices": [
+        {
+          "text": "Start Over",
+          "destination": "0"
         }
       ]
     },
@@ -276,6 +306,17 @@
         {
           "text": "Go to chapter",
           "destination": "33"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "title": "chapter 99",
+      "content": "You board on the plane without any problem. Before you could do anything, the plane is hijacked by terrorists. However they are so bad at piloting that their crash the plane before they could do anyhting. Unfortunately, you die with all the rest of the passengers.",
+      "choices": [
+        {
+          "text": "Start Over",
+          "destination": "0"
         }
       ]
     }
