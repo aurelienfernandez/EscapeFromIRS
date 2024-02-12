@@ -622,7 +622,8 @@ var data = (
             "text": "Go to chapter",
             "destination": "6"
           }
-        ]
+        ],
+        "image": "./Resources/storm.jpg"
       },
       {
         "id": 93,
