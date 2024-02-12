@@ -69,7 +69,7 @@ var data = (
         "id": 5,
         "title": "chapter 5",
         "content": "The receptionist ask you for where you would like to sit. You can either take a window seat or an aisle seat.",
-        "choice": [
+        "choices": [
           {
             "text": "If you want to take a window seat, go to chapter",
             "destination": "70"
