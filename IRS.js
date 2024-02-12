@@ -77,6 +77,21 @@ var data=(
             ]
           },
           {
+            "id": 6, 
+            "title": "chapter 6",
+            "content": "It has already been 3 days, and you can hear that there is a big celebration outside. Do you want to go see what is happening",
+            "choices": [
+              {
+                "text": "Let's see",
+                "destination" : "69"
+              },
+              {
+                "text": "Hell na",
+                "destination": "19"
+              }
+            ]
+          },
+          {
             "id": 7,
             "title": "chapter 7",
             "content": "It happens you also know someone doing face surgeries in Denver in a very short amount of time. You go to him and ask him to do his things. After a bit more than an hour, you are hardly recognizable. You can either take a plane or a train.",
@@ -181,6 +196,17 @@ var data=(
               {
                 "text": "If you want to go through the agents, go to chapter",
                 "destination": "41"
+              }
+            ]
+          },
+          {
+            "id": 19,
+            "title": "chapter 19",
+            "content": "you decide to not go to the party, and spend the rest of the time in your room before leaving for the Bahamas, because less human contact means less problem to deal with",
+            "choices":[
+              {
+                "text": "Go to chapter",
+                "destination": 42
               }
             ]
           },
@@ -415,6 +441,17 @@ var data=(
               {
                 "text": "If you want to go to Albuquerque, go to chapter",
                 "destination": "5"
+              }
+            ]
+          },
+          {
+            "id": 69,
+            "title": "chapter 69",
+            "content": "The streets are full of people, and in this crowd, you come across the most beautiful woman you have ever seen. You both fell in love at the first sight, and after a crazy night, you decide to marry her. Two days after, you leave with her to the Bahamas",
+            "choices": [
+              {
+                "text": "Go to chapter",
+                "destination": "24"
               }
             ]
           },
