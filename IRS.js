@@ -248,7 +248,6 @@ var data = (
           }
         ],
         "image": "./Resources/kys.jpg"
-        "image": "./Resources/kys.jpg"
       },
       {
         "id": 24,
@@ -328,7 +327,6 @@ var data = (
             "destination": "66"
           }
         ],
-        "image": "./Resources/Airport.jpg"
         "image": "./Resources/Airport.jpg"
       },
       {
@@ -468,7 +466,8 @@ var data = (
             "text": "Go to chapter",
             "destination": "12"
           }
-        ]
+        ],
+        "image": "./Resources/closet.jpg"
       },
       {
         "id": 63,
@@ -551,7 +550,8 @@ var data = (
             "text": "Start Over",
             "destination": "0"
           }
-        ]
+        ],
+        "image": "./Resources/FrenchTradition.jpg"
       },
       {
         "id": 75,
@@ -671,7 +671,7 @@ var data = (
             "destination": "0"
           }
         ],
-        "image" : "./Resources/plane.jpg"
+        "image": "./Resources/plane.jpg"
       }
     ]
   }
