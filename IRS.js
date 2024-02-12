@@ -466,7 +466,8 @@ var data = (
             "text": "Go to chapter",
             "destination": "12"
           }
-        ]
+        ],
+        "image": "./Resources/closet.jpg"
       },
       {
         "id": 63,
@@ -481,7 +482,8 @@ var data = (
             "text": "Accept to stop by Havana",
             "destination": "90"
           }
-        ]
+        ],
+        "image": "./Resources/boat.jpg"
       },
       {
         "id": 66,
@@ -496,7 +498,8 @@ var data = (
             "text": "If you want to go to Albuquerque, go to chapter",
             "destination": "5"
           }
-        ]
+        ],
+        "image": "./Resources/airport.jpg"
       },
       {
         "id": 69,
@@ -507,7 +510,8 @@ var data = (
             "text": "Go to chapter",
             "destination": "24"
           }
-        ]
+        ],
+        "image": "./Resources/party.jpg"
       },
       {
         "id": 70,
@@ -522,7 +526,8 @@ var data = (
             "text": "If you want to wait for him to move, go to chapter",
             "destination": "72"
           }
-        ]
+        ],
+        "image": "./Resources/WindowSeat.jpg"
       },
       {
         "id": 72,
@@ -533,7 +538,8 @@ var data = (
             "text": "Go to chapter",
             "destination": "39"
           }
-        ]
+        ],
+        "image": "./Resources/Cockpit.jpeg"
       },
       {
         "id": 73,
@@ -544,7 +550,8 @@ var data = (
             "text": "Start Over",
             "destination": "0"
           }
-        ]
+        ],
+        "image": "./Resources/airport.jpg"
       },
       {
         "id": 75,
@@ -555,7 +562,8 @@ var data = (
             "text": "Go to chapter",
             "destination": "47"
           }
-        ]
+        ],
+        "image": "./Resources/money.jpg"
       },
       {
         "id": 78,
@@ -566,7 +574,8 @@ var data = (
             "text": "Go to chapter",
             "destination": "47"
           }
-        ]
+        ],
+        "image": "./Resources/carstealing.jpg"
       },
       {
         "id": 80,
