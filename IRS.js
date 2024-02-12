@@ -172,7 +172,7 @@ var data=(
           {
             "id": 12,
             "title": "chapter 12",
-            "content": "You take perpetuity",
+            "content": "You take perpetuity. More to do here in a future version",
             "choices": [
               {
                 "text": "Start Over",
