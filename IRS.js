@@ -233,6 +233,17 @@ var data=(
             ]
           },
           {
+            "id": 30, 
+            "title": "chapter 30",
+            "content": "Even though you are really forcing him to navigate you there, but he won't budge. He is speaking about storm or hurricane, but he finally accepts to sell you his boat and let you go alone. Well, you may ahve wanted to listen to that old man, because he wasn't lying. You boat sink because of the storm, and you with it. Your body will never be found after this.",
+            "choices": [
+              {
+                "text": "Start Over",
+                "destination": "0"
+              }
+            ]
+          },
+          {
             "id": 32,
             "title": "chapter 32",
             "content": "You open the door and you don't even have time to say anything that you are already handcuffed on the ground. You try to defend yourself, but there are too many agents and they are too strong. You are taken to the police station and brought to court. Your trial starts.",
@@ -315,6 +326,21 @@ var data=(
             ]
           },
           {
+            "id": 47,
+            "title": "chapter 47",
+            "content": "You go to the first person you see, and ask him to drive you to the nearest port. You can see he is reluctant",
+            "choices": [
+              {
+                "text": "threaten him with your gun",
+                "destination": "56"
+              },
+              {
+                "text": "give him some money",
+                "destination": "63"
+              }
+            ]
+          },
+          {
             "id": 50,
             "title": "chapter 50",
             "content": "You land directly in the car of your friend, and you ask him to drive you to the Mexican border. As you are speaking about everything you went through, you realise that he has always been there for you. It may deserve a little something, don't you think?",
@@ -341,6 +367,17 @@ var data=(
             ]
           },
           {
+            "id": 56,
+            "title": "chapter 56",
+            "content": "You reach for your gun in your pocket. Before you can do anything, you are surrounded by some of his friends. You fell in a trap prepared by a cartel, and they take you to their boss. You are forced to work for them, and you will never be able to leave the country.",
+            "choices": [
+              {
+                "text": "Start Over",
+                "destination": "0"
+              }
+            ]
+          },
+          {
             "id": 60,
             "title": "chapter 60",
             "content": "You hide in the closet, hoping that you will have the time to call a friend. As soon as you enter it, you hear your door break in pieces and the agents entering your house. They reach the room in a few seconds and find you directly. You are taken to the police station and brought to court. Your trial starts.",
@@ -348,6 +385,21 @@ var data=(
               {
                 "text": "Go to chapter",
                 "destination": "12"
+              }
+            ]
+          },
+          {
+            "id": 63,
+            "title": "chapter 63",
+            "content": "You hand him some money, and he accepts without asking any question. You arrive at the port, and take a boat. Unfortunately, the commander can only take you to Havana",
+            "choices": [
+              {
+                "text": "Force him to go directly to the Bahamas",
+                "destination" : "30"
+              },
+              {
+                "text": "Accept to stop by Havana",
+                "destination": "90"
               }
             ]
           },
@@ -467,6 +519,17 @@ var data=(
               {
                 "text": "If you want to dodge them and take a lead, go to chapter",
                 "destination": "3"
+              }
+            ]
+          },
+          {
+            "id": 90,
+            "title": "chapter 90",
+            "content": "You arrive safely at Havana, and less than an hour later, a big storm is hitting all the region. Thank god you listen to the old man. After asking you realise that the storm will not calm down before a week. You decide to take an hotel to wait",
+            "choices":[
+              {
+                "text": "Go to chapter",
+                "destination": "6"
               }
             ]
           },
