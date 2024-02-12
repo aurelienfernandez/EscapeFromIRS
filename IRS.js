@@ -233,6 +233,17 @@ var data=(
             ]
           },
           {
+            "id": 24,
+            "title": "chapter 24",
+            "content": "You arrived in Nassau, the city where all the pirates that stole from the government gathered. You can now enjoy your life with your wife. But is it really freedom if you have to share your time but most importantly, your money, with someone else? You have won, but at what cost ?",
+            "choices":[
+              {
+                "text": "If you want to try other choices you can start from the begining to see where you choices could have take you",
+                "destination": "0"
+              }
+            ]
+          },
+          {
             "id": 27,
             "title": "chapter 27",
             "content": "While you are walking in the forest, you have the time to call a friend of yours and explain him your plan. You reach Denver after some walking. You can either rush to a the airport or train station, or you use the time you have at your advantage to cover you back, and make sure everything will go smoothly afterwards.",
@@ -337,6 +348,17 @@ var data=(
               {
                 "text": "If you want to keep running, go to chapter",
                 "destination": "20"
+              }
+            ]
+          },
+          {
+            "id": 42,
+            "title": "chapter 42",
+            "content": "You arrived in Nassau, the city where all the pirates that stole from the government gathered. You can enjoy your free time and all your money just for yourself. You have only left your life behind you, not a big deal. Congrats for making it this far.",
+            "choices":[
+              {
+                "text": "If you want to try different path, you can start over",
+                "destination" : "0"
               }
             ]
           },
