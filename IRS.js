@@ -327,7 +327,7 @@ var data = (
             "destination": "66"
           }
         ],
-        "image": "./Resources/Airport.jpeg"
+        "image": "./Resources/Airport.jpg"
       },
       {
         "id": 36,
@@ -551,7 +551,7 @@ var data = (
             "destination": "0"
           }
         ],
-        "image": "./Resources/airport.jpg"
+        "image": "./Resources/Airport.jpg"
       },
       {
         "id": 75,
