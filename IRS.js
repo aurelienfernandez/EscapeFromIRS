@@ -118,6 +118,17 @@ var data=(
             ]
           },
           {
+            "id": 10,
+            "title": "chapter 10",
+            "content": "You accept their offer, and immediatly cut all the communication with them. You then take a parachute, and jump from the plane, to where you will join your friend who is waiting for you with all the money",
+            "choices": [
+              {
+                "text": "Go to chapter",
+                "destination": "50"
+              }
+            ]
+          },
+          {
             "id": 11,
             "title": "chapter 11",
             "content": "You reach the cockpit and take control of the plane. You can either go to New York or to Miami.",
@@ -185,6 +196,17 @@ var data=(
             ]
           },
           {
+            "id": 22,
+            "title": "chapter 22",
+            "content": "The FBI doesn't really like the fact that you try to get more money than what they offer. They use their new experimental weapon that can control people through the radio. Unfortunately for you, it works. They tell you to kys, and you are forced to execute what they say",
+            "choices": [
+              {
+                "text" : "Start Over",
+                "destination" : "0"
+              }
+            ]
+          },
+          {
             "id": 27,
             "title": "chapter 27",
             "content": "While you are walking in the forest, you have the time to call a friend of yours and explain him your plan. You reach Denver after some walking. You can either rush to a the airport or train station, or you use the time you have at your advantage to cover you back, and make sure everything will go smoothly afterwards.",
@@ -226,6 +248,21 @@ var data=(
             ]
           },
           {
+            "id": 39,
+            "title" : "chapter 39",
+            "content" : "You call the control tower, and the FBI offers you all your money back plus 1 million dollars in cash to ensure that you will not harm any passengers. Should you try to negotiate for more ?",
+            "choices": [
+              {
+                "text": "Yes, always more",
+                "destination": "22"
+              },
+              {
+                "text": "No, it's more than enough",
+                "destination": "10"
+              }
+            ]
+          },
+          {
             "id": 41,
             "title": "chapter 41",
             "content": "You try to pass through all the agents, but it's not long before they see you. As a result, they chase you down the street. You pass down a house and see that it's open with someone inside. You can either go inside to take him in hostage or keep running.",
@@ -248,6 +285,21 @@ var data=(
               {
                 "text": "Go to chapter",
                 "destination": "12"
+              }
+            ]
+          },
+          {
+            "id": 50,
+            "title": "chapter 50",
+            "content": "You land directly in the car of your friend, and you ask him to drive you to the Mexican border. As you are speaking about everything you went through, you realise that he has always been there for you. It may deserve a little something, don't you think?",
+            "choices": [
+              {
+                "text": "Absolutely not, it's normal between friends",
+                "destination": "36"
+              },
+              {
+                "text": "Of course",
+                "destination": "75"
               }
             ]
           },
@@ -310,7 +362,7 @@ var data=(
             "choices": [
               {
                 "text": "Go to chapter",
-                "destination": "69"
+                "destination": "39"
               }
             ]
           },
