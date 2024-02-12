@@ -222,6 +222,17 @@ var data=(
             ]
           },
           {
+            "id": 29,
+            "title": "chapter 29",
+            "content": "You decide to trust your friend, but you should have not. When you arrive at the Mexican border, he denounce you to the cops. With everything you have done, you are directly sent to Guantanamo.",
+            "choices": [
+              {
+                "text": "Start Over",
+                "destination": "0"
+              }
+            ]
+          },
+          {
             "id": 32,
             "title": "chapter 32",
             "content": "You open the door and you don't even have time to say anything that you are already handcuffed on the ground. You try to defend yourself, but there are too many agents and they are too strong. You are taken to the police station and brought to court. Your trial starts.",
@@ -244,6 +255,21 @@ var data=(
               {
                 "text": "If you want to take a domestic flight, go to chapter",
                 "destination": "66"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "title": "chapter 36",
+            "content" : "After some time, you friend stop and he seems kinda sus. In fact, he is calling someone, and the glimpse you can catch of what he talks about seems like he is betraying you. You are not sure but ot's not the moment to take risk",
+            "choices": [
+              {
+                "text": "steal his car and continue alone",
+                "destination" : "78"
+              },
+              {
+                "text": "trust him",
+                "destination": "29"
               }
             ]
           },
@@ -374,6 +400,28 @@ var data=(
               {
                 "text": "Start Over",
                 "destination": "0"
+              }
+            ]
+          },
+          {
+            "id": 75, 
+            "title": "chapter 75",
+            "content": "You hand him some money to thank him for everything he has done for you. You cross the border, and tell him to leave you there and never recontact you again. Keep going, you are almost there.",
+            "choices": [
+              {
+                "text": "Go to chapter",
+                "destination": "47"
+              }
+            ]
+          },
+          {
+            "id": 78,
+            "title": "chapter 78",
+            "content": "As you are stealing his car, he remarks what you are doing and start being aggressive. You shoot him before he can do anything that would harm your plan. You take his car and go through the Mexican border, where you sell the car to make sure you are untraceable. Keep going, you are almost there.",
+            "choices": [
+              {
+                "text": "Go to chapter",
+                "destination": "47"
               }
             ]
           },
