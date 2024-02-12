@@ -608,27 +608,41 @@ var data=(
 )
 // Function to find a chapter by its id
 function findChapterById(chapters, id) {
-    return chapters.find(chapter => chapter.id === id);
+  return chapters.find(chapter => chapter.id === id);
 }
 
 function Change(number) {
-    
-    const chapter = findChapterById(data.chapters, number);
-    TitleDiv = document.getElementById("title");
-    chapterDiv = document.getElementById("chapter");
-    choiceDiv = document.getElementById("choices");
-    choiceDiv.innerHTML = "";
-    
-    TitleDiv.innerHTML = chapter.title;
-    chapterDiv.innerHTML = chapter.content;
-    
-    chapter.choices.forEach(choice => {
-        if (choice.destination != 0) {
-            choiceDiv.innerHTML += "<div>" + choice.text + " <a href='javascript:void(0)' onclick='Change(" + choice.destination + ")'>" + choice.destination + "</a></div>"
-        } else {
-            choiceDiv.innerHTML = " <a href='javascript:void(0)' onclick='Change(" + choice.destination + ")'>" + choice.text + "</a>"
-        }
-    });
-    // Fetch the JSON file
-    
+
+  const chapter = findChapterById(data.chapters, number);
+  TitleDiv = document.getElementById("title");
+  image = document.getElementById("img");
+  chapterDiv = document.getElementById("chapter");
+  choiceDiv = document.getElementById("choices");
+
+  choiceDiv.innerHTML = "";
+
+  image.src = chapter.image;
+  TitleDiv.innerHTML = chapter.title;
+  chapterDiv.innerHTML = chapter.content;
+
+  chapter.choices.forEach(choice => {
+    if (choice.destination != 0) {
+      choiceDiv.innerHTML += "<div>" + choice.text + " <a href='javascript:void(0)' onclick='Change(" + choice.destination + ")'>" + choice.destination + "</a></div>"
+    } else {
+      choiceDiv.innerHTML = " <a href='javascript:void(0)' onclick='Change(" + choice.destination + ")'>" + choice.text + "</a>"
+    }
+  });
+  // Fetch the JSON file
 }
+
+
+function PlayMusic() {
+
+  var play = document.getElementById("audio");
+  play.play();  
+}
+
+window.onload = ((event) => {
+  setTimeout(PlayMusic, 3000);
+})
+
