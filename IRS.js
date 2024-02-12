@@ -22,7 +22,8 @@ var data=(
                 "text": "Go to your garage",
                 "destination": "86"
               }
-            ]
+            ],
+            "image":"./Resources/Start.jpg"
           },
           {
             "id": 2,
@@ -33,7 +34,8 @@ var data=(
                 "text": "Start Over",
                 "destination": "0"
               }
-            ]
+            ],
+            "image":"./Resources/Dead.jpg"
           },
           {
             "id": 3,
@@ -48,7 +50,8 @@ var data=(
                 "text": "If you want to cover your back, go to chapter",
                 "destination": "81"
               }
-            ]
+            ],
+            "image":"./Resources/CarAccident.jpg"
           },
           {
             "id": 4,
@@ -59,7 +62,8 @@ var data=(
                 "text": "Go to chapter",
                 "destination": "12"
               }
-            ]
+            ],
+            "image":"./Resources/ArrestationTrain.jpg"
           },
           {
             "id": 5,
@@ -74,7 +78,8 @@ var data=(
                 "text": "If you want to take an aisle seat, go to chapter",
                 "destination": "9"
               }
-            ]
+            ],
+            "image":"./Resources/Train.jpg"
           },
           {
             "id": 6, 
