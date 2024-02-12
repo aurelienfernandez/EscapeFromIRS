@@ -94,7 +94,8 @@ var data=(
                 "text": "Hell na",
                 "destination": "19"
               }
-            ]
+            ],
+            "image":"./Resources/Party.jpg"
           },
           {
             "id": 7,
@@ -109,18 +110,20 @@ var data=(
                 "text": "If you want to take a train, go to chapter",
                 "destination": "96"
               }
-            ]
+            ],
+            "image":"./Resources/Surgery.jpg"
           },
           {
             "id": 8,
             "title": "chapter 8",
-            "content": "Your neighbour is a retired navy seal, and instantly recognize that you are trying to take control of the plane. He tackled you, break your arm and contact an hostess. When the plane land, you are directly send to prison for perpetuity.",
+            "content": "Your neighbour is a retired navy seal, and instantly recognize that you are trying to take control of the plane. He tackles you, breaks your arm and contact an hostess. When the plane lands, you are directly sent to prison for perpetuity.",
             "choices": [
               {
                 "text": "Start Over",
                 "destination": "0"
               }
-            ]
+            ],
+            "image":"./Resources/Arrested.jpg"
           },
           {
             "id": 9,
@@ -135,7 +138,8 @@ var data=(
                 "text": "If you want to wait for him to move, go to chapter",
                 "destination": "72"
               }
-            ]
+            ],
+            "image":"./Resources/AisleSeat.jpg"
           },
           {
             "id": 10,
@@ -146,7 +150,8 @@ var data=(
                 "text": "Go to chapter",
                 "destination": "50"
               }
-            ]
+            ],
+            "image":"./Resources/Parachute.jpg"
           },
           {
             "id": 11,
@@ -161,7 +166,8 @@ var data=(
                 "text": "If you want to go to Miami, go to chapter",
                 "destination": "60"
               }
-            ]
+            ],
+            "image":"./Resources/Cockpit.jpg"
           },
           {
             "id": 12,
@@ -172,7 +178,8 @@ var data=(
                 "text": "Start Over",
                 "destination": "0"
               }
-            ]
+            ],
+            "image":"./Resources/Jail.jpg"
           },
           {
             "id": 15,
@@ -187,7 +194,8 @@ var data=(
                 "text": "To take a train, go to chapter",
                 "destination": "93"
               }
-            ]
+            ],
+            "image":"./Resources/Train&Plane.jpg"
           },
           {
             "id": 17,
@@ -202,7 +210,8 @@ var data=(
                 "text": "If you want to go through the agents, go to chapter",
                 "destination": "41"
               }
-            ]
+            ],
+            "image":"./Resources/Window.jpg"
           },
           {
             "id": 19,
@@ -213,7 +222,8 @@ var data=(
                 "text": "Go to chapter",
                 "destination": 42
               }
-            ]
+            ],
+            "image":"./Resources/Room.jpg"
           },
           {
             "id": 20,
@@ -224,7 +234,8 @@ var data=(
                 "text": "Go to chapter",
                 "destination": "27"
               }
-            ]
+            ],
+            "image":"./Resources/forest.jpg"
           },
           {
             "id": 22,
