@@ -247,7 +247,7 @@ var data = (
             "destination": "0"
           }
         ],
-        "image": "./Resources/kys.jpeg"
+        "image": "./Resources/kys.jpg"
       },
       {
         "id": 24,
@@ -327,7 +327,7 @@ var data = (
             "destination": "66"
           }
         ],
-        "image": "./Resources/Airport.jpeg"
+        "image": "./Resources/Airport.jpg"
       },
       {
         "id": 36,
@@ -466,7 +466,8 @@ var data = (
             "text": "Go to chapter",
             "destination": "12"
           }
-        ]
+        ],
+        "image": "./Resources/Court.jpg"
       },
       {
         "id": 63,
@@ -544,7 +545,8 @@ var data = (
             "text": "Start Over",
             "destination": "0"
           }
-        ]
+        ],
+        "image": "./Resources/FrenchTradition.jpg"
       },
       {
         "id": 75,
