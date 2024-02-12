@@ -386,18 +386,20 @@ var data = (
             "text": "If you want to try different path, you can start over",
             "destination": "0"
           }
-        ]
+        ],
+        "image": "./Resources/Nasau.jpg"
       },
       {
         "id": 44,
         "title": "chapter 44",
-        "content": "You arrive at the airport, but you face is everywhere on the walls. You are being arrested and your trial starts.",
+        "content": "You arrive at the airport, but your face is everywhere on the walls. You are being arrested and your trial starts.",
         "choices": [
           {
             "text": "Go to chapter",
             "destination": "12"
           }
-        ]
+        ],
+        "image": "./Resources/Court.jpg"
       },
       {
         "id": 47,
@@ -412,12 +414,13 @@ var data = (
             "text": "give him some money",
             "destination": "63"
           }
-        ]
+        ],
+        "image": "./Resources/driver.webp"
       },
       {
         "id": 50,
         "title": "chapter 50",
-        "content": "You land directly in the car of your friend, and you ask him to drive you to the Mexican border. As you are speaking about everything you went through, you realise that he has always been there for you. It may deserve a little something, don't you think?",
+        "content": "You land directly in the car of your friend, and you ask him to drive you to the Mexican border. As you are speaking about everything you went through, you realise that he has always been there for you. He may deserve a little something, don't you think?",
         "choices": [
           {
             "text": "Absolutely not, it's normal between friends",
@@ -427,7 +430,8 @@ var data = (
             "text": "Of course",
             "destination": "75"
           }
-        ]
+        ],
+        "image": "./Resources/friend.jpg"
       },
       {
         "id": 52,
@@ -438,7 +442,8 @@ var data = (
             "text": "Go to chapter",
             "destination": "12"
           }
-        ]
+        ],
+        "image": "./Resources/Arrest.jpg"
       },
       {
         "id": 56,
@@ -449,7 +454,8 @@ var data = (
             "text": "Start Over",
             "destination": "0"
           }
-        ]
+        ],
+        "image": "./Resources/DrugCartel.webp"
       },
       {
         "id": 60,
