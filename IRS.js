@@ -82,6 +82,21 @@ var data=(
             "image":"./Resources/Train.jpg"
           },
           {
+            "id": 6, 
+            "title": "chapter 6",
+            "content": "It has already been 3 days, and you can hear that there is a big celebration outside. Do you want to go see what is happening",
+            "choices": [
+              {
+                "text": "Let's see",
+                "destination" : "69"
+              },
+              {
+                "text": "Hell na",
+                "destination": "19"
+              }
+            ]
+          },
+          {
             "id": 7,
             "title": "chapter 7",
             "content": "It happens you also know someone doing face surgeries in Denver in a very short amount of time. You go to him and ask him to do his things. After a bit more than an hour, you are hardly recognizable. You can either take a plane or a train.",
@@ -190,6 +205,17 @@ var data=(
             ]
           },
           {
+            "id": 19,
+            "title": "chapter 19",
+            "content": "you decide to not go to the party, and spend the rest of the time in your room before leaving for the Bahamas, because less human contact means less problem to deal with",
+            "choices":[
+              {
+                "text": "Go to chapter",
+                "destination": 42
+              }
+            ]
+          },
+          {
             "id": 20,
             "title": "chapter 20",
             "content": "As you know the area like the back of your hand, you manage to lose the cops. You can hear the sirens, meaning that they are still chasing you. You decided that the best way to stay on the low is to reach the forest and keep walking until you reach the next city.",
@@ -208,6 +234,17 @@ var data=(
               {
                 "text" : "Start Over",
                 "destination" : "0"
+              }
+            ]
+          },
+          {
+            "id": 24,
+            "title": "chapter 24",
+            "content": "You arrived in Nassau, the city where all the pirates that stole from the government gathered. You can now enjoy your life with your wife. But is it really freedom if you have to share your time but most importantly, your money, with someone else? You have won, but at what cost ?",
+            "choices":[
+              {
+                "text": "If you want to try other choices you can start from the begining to see where you choices could have take you",
+                "destination": "0"
               }
             ]
           },
@@ -320,6 +357,17 @@ var data=(
             ]
           },
           {
+            "id": 42,
+            "title": "chapter 42",
+            "content": "You arrived in Nassau, the city where all the pirates that stole from the government gathered. You can enjoy your free time and all your money just for yourself. You have only left your life behind you, not a big deal. Congrats for making it this far.",
+            "choices":[
+              {
+                "text": "If you want to try different path, you can start over",
+                "destination" : "0"
+              }
+            ]
+          },
+          {
             "id": 44,
             "title": "chapter 44",
             "content": "You arrive at the airport, but you face is everywhere on the walls. You are being arrested and your trial starts.",
@@ -420,6 +468,17 @@ var data=(
               {
                 "text": "If you want to go to Albuquerque, go to chapter",
                 "destination": "5"
+              }
+            ]
+          },
+          {
+            "id": 69,
+            "title": "chapter 69",
+            "content": "The streets are full of people, and in this crowd, you come across the most beautiful woman you have ever seen. You both fell in love at the first sight, and after a crazy night, you decide to marry her. Two days after, you leave with her to the Bahamas",
+            "choices": [
+              {
+                "text": "Go to chapter",
+                "destination": "24"
               }
             ]
           },
