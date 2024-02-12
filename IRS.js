@@ -649,7 +649,8 @@ var data = (
             "text": "Start Over",
             "destination": "0"
           }
-        ]
+        ],
+        "image" : "./Resources/plane.jpg"
       }
     ]
   }
