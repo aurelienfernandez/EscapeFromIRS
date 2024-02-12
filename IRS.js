@@ -577,7 +577,8 @@ var data = (
             "text": "Start Over",
             "destination": "0"
           }
-        ]
+        ],
+        "image": "./Resources/shotcar.jpg"
       },
       {
         "id": 81,
@@ -596,7 +597,8 @@ var data = (
             "text": "If you want to cover your back more, go to chapter",
             "destination": "7"
           }
-        ]
+        ],
+        "image": "./Resources/FakeID.jpg"
       },
       {
         "id": 86,
@@ -611,7 +613,8 @@ var data = (
             "text": "If you want to dodge them and take a lead, go to chapter",
             "destination": "3"
           }
-        ]
+        ],
+        "image": "./Resources/garage.jpg"
       },
       {
         "id": 90,
@@ -634,7 +637,8 @@ var data = (
             "text": "Go to chapter",
             "destination": "12"
           }
-        ]
+        ],
+        "image": "./Resources/TrainStation.jpg"
       },
       {
         "id": 96,
@@ -645,7 +649,8 @@ var data = (
             "text": "Go to chapter",
             "destination": "33"
           }
-        ]
+        ],
+        "image": "./Resources/TrainStation.jpg"
       },
       {
         "id": 99,
