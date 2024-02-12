@@ -247,7 +247,7 @@ var data = (
             "destination": "0"
           }
         ],
-        "image": "./Resources/kys.jpeg"
+        "image": "./Resources/kys.jpg"
       },
       {
         "id": 24,
@@ -499,7 +499,7 @@ var data = (
             "destination": "5"
           }
         ],
-        "image": "./Resources/airport.jpg"
+        "image": "./Resources/Airport.jpg"
       },
       {
         "id": 69,
@@ -607,7 +607,7 @@ var data = (
             "destination": "7"
           }
         ],
-        "image": "./Resources/FakeID.jpg"
+        "image": "./Resources/fakeID.jpg"
       },
       {
         "id": 86,
